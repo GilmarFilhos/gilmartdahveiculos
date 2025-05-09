@@ -11,4 +11,11 @@
 
 <strong>Mida social</strong>
 
-<a href="https://br.linkedin.com/in/gilmarfranciscodossantosfilhosantosfilho" >Linkdin</a>
+<a href="https://br.linkedin.com/in/gilmarfranciscodossantosfilhosantosfilho"  >Linkdin</a>
+
+
+<strong>Quanto Começou esse projeto</strong>
+
+`08/05/25 as 19:10`
+
+
