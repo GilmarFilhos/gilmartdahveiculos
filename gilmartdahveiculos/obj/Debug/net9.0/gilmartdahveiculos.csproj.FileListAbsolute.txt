@@ -1,0 +1,8 @@
+C:\Users\LAB09\Documents\GitHub\gilmartdahveiculos\gilmartdahveiculos\obj\Debug\net9.0\gilmartdahveiculos.csproj.AssemblyReference.cache
+C:\Users\LAB09\Documents\GitHub\gilmartdahveiculos\gilmartdahveiculos\obj\Debug\net9.0\gilmartdahveiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB09\Documents\GitHub\gilmartdahveiculos\gilmartdahveiculos\obj\Debug\net9.0\gilmartdahveiculos.AssemblyInfoInputs.cache
+C:\Users\LAB09\Documents\GitHub\gilmartdahveiculos\gilmartdahveiculos\obj\Debug\net9.0\gilmartdahveiculos.AssemblyInfo.cs
+C:\Users\LAB09\Documents\GitHub\gilmartdahveiculos\gilmartdahveiculos\obj\Debug\net9.0\gilmartdahveiculos.csproj.CoreCompileInputs.cache
+C:\Users\LAB09\Documents\GitHub\gilmartdahveiculos\gilmartdahveiculos\obj\Debug\net9.0\gilmartdahveiculos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LAB09\Documents\GitHub\gilmartdahveiculos\gilmartdahveiculos\obj\Debug\net9.0\gilmartdahveiculos.sourcelink.json
+C:\Users\LAB09\Documents\GitHub\gilmartdahveiculos\gilmartdahveiculos\obj\Debug\net9.0\gilmartdahveiculos.MvcApplicationPartsAssemblyInfo.cs
