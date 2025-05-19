@@ -1,5 +1,5 @@
-git config --global user.name GalloJunior
-git config --global user.email gallojunior@gmail.com
+git config --global user.name exemplo
+git config --global user.email exemplo
 
 CLI - Command Line Interface
 
