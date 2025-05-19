@@ -14,7 +14,7 @@
 <strong>Professor:</strong>
 
 
-<img src="https://github.com/gallojunior" widht="120px">
+<img src="https://avatars.githubusercontent.com/u/12284966?v=4" widht="120px">
 
 
 <strong>Mida social</strong>
