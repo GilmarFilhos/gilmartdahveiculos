@@ -10,13 +10,13 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 );
 
 builder.Services.AddControllers();
-
+// Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
 
 builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo { 
-        Title = "GilmarTdahVeiculos", 
+        Title = "gilmartdahveiculos", 
         Version = "v1",
         Description = "Documentação da API",
     });
@@ -38,7 +38,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI(c =>
     {
-        c.SwaggerEndpoint("/swagger/v1/swagger.json", "GranVeiculos API v1");
+        c.SwaggerEndpoint("/swagger/v1/swagger.json", "gilmartdahveiculos API v1");
     });
 }
 

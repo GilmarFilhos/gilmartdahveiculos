@@ -13,5 +13,9 @@ namespace gilmartdahveiculos.Data
         public DbSet<Marca> Marcas { get; set; }
         public DbSet<Modelo> Modelos { get; set; }
         public DbSet<Veiculo> Veiculos { get; set; }
+        public DbSet<Autor> Autor { get; set; }
+        public DbSet<Orange> orange { get; set; }
+        public DbSet<Clientes> Clientes {get; set;} 
+
     }
 }

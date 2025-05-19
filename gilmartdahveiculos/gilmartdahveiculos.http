@@ -1,6 +1,7 @@
-@gilmartdahveiculos_HostAddress = http://localhost:5109
+@gilmartdahveiculos_HostAddress = http://localhost:3306
 
 GET {{gilmartdahveiculos_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
+http://localhost:3306

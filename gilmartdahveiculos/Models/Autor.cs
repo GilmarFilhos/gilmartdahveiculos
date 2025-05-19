@@ -3,8 +3,8 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace gilmartdahveiculos.Models
 {
-    [Table("Marca")]
-    public class Marca
+    [Table("Autor")]
+    public class Autor
     {
         [Key]
         public int Id { get; set; }
